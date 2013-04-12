@@ -1,5 +1,7 @@
 # Allgemeine Geschäftsbedingungen (AGB) 
 
+[Änderungshistorie dieser AGB](https://github.com/freistil/tos/commits/master/AGB.md)
+
 ## Allgemeines, Geltungsbereich
 
 Die folgenden Allgemeinen Geschäftsbedingungen gelten für alle Geschäftsbeziehungen zwischen dem Kunden und freistil IT GbR Jochen Lillich & Markus Heurung (im Folgenden mit "freistil IT" bezeichnet). Maßgeblich ist jeweils die zum Zeitpunkt des Vertragsschlusses gültige, auf unserer Website abrufbare Fassung.
