@@ -1,5 +1,7 @@
 # Datenschutzerklärung
 
+[Änderungshistorie der Datenschutzerklärung](https://github.com/freistil/tos/commits/master/Datenschutzerkla%CC%88rung.md)
+
 Wir freuen uns über Ihr Interesse an unserem Webauftritt! Der Schutz Ihrer persönlichen Daten liegt uns sehr am Herzen. An dieser Stelle möchten wir Sie daher über den Datenschutz in unserem Unternehmen informieren. Selbstverständlich beachten wir die gesetzlichen Bestimmungen des Datenschutzgesetzes (BDSG) des Telemediengesetzes (TMG) und anderer datenschutzrechtlicher Bestimmungen.
 
 Bei Ihren persönlichen Daten können Sie uns vertrauen! Sie werden durch digitale Sicherheitssysteme verschlüsselt und an uns übertragen. Unsere Webseiten sind durch technische Maßnahmen gegen Beschädigungen, Zerstörung oder unberechtigten Zugriff geschützt.
