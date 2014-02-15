@@ -129,9 +129,9 @@ At any time you may review or update the personally identifiable information tha
 
 Except as specified above, we do not rent, sell or otherwise disclose any of your information to any person outside our business.
 
-## Data may be "processed" outside the Ireland
+## Data may be "processed" outside of Ireland
 
-Our web sites are hosted in Germany. We also use outsourced services in countries outside the EU from time to time in other aspects of our business. Accordingly data obtained within Ireland may be "processed" outside of Ireland and data obtained in any other country may be processed within or outside that country.
+Our web sites are hosted in Germany. We also use outsourced services in countries outside the EU from time to time in other aspects of our business. Accordingly, data obtained within Ireland may be "processed" outside of Ireland and data obtained in any other country may be processed within or outside that country.
 
 ## Compliance with the law
 
