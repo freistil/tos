@@ -1,151 +1,110 @@
-# Allgemeine Geschäftsbedingungen (AGB) 
+# Terms of Service
 
-[Änderungshistorie dieser AGB](https://github.com/freistil/tos/commits/master/AGB.md)
+__between__
 
-## Allgemeines, Geltungsbereich
+* you, the client, hereafter referred to as “you”, and
+* freistil IT Limited, a company incorporated in the Republic of Ireland under company registration 532004 and whose registered office is at 13 Connawood Drive, Bray, Co. Wicklow, Ireland; hereafter referred to as "we" or "us".
 
-Die folgenden Allgemeinen Geschäftsbedingungen gelten für alle Geschäftsbeziehungen zwischen dem Kunden und freistil IT GbR Jochen Lillich & Markus Heurung (im Folgenden mit "freistil IT" bezeichnet). Maßgeblich ist jeweils die zum Zeitpunkt des Vertragsschlusses gültige, auf unserer Website abrufbare Fassung.
+The purpose of this agreement (hereafter referred to as the “Agreement”) is to precede a longer-term contract arrangement under which freistil IT will provide IT services (e.g. web hosting) on behalf of you.
 
-Abweichende, entgegenstehende oder ergänzende Allgemeine Geschäftsbedingungen des Kunden werden, selbst bei Kenntnis, nicht Vertragsbestandteil, es sei denn, ihrer Geltung wird ausdrücklich zugestimmt.
+## SCOPE
 
-## Vertragsschluss
+The following terms and conditions apply to all business relationships between you and us. The governing law is that which was valid when the contract was put into effect.
 
-Unsere Angebote sind freibleibend und unverbindlich. Technische sowie sonstige Änderungen bleiben im Rahmen des Zumutbaren vorbehalten.
+Dissenting, conflicting or additional customer terms and conditions, even if acknowledged, are not part of the contract unless their validity is expressly agreed upon. 
 
-Mit der Bestellung erklärt der Kunde verbindlich sein Vertragsangebot. Wir werden den Zugang der Bestellung des Kunden unverzüglich bestätigen. Die Zugangsbestätigung stellt noch keine verbindliche Annahme der Bestellung dar. Die Zugangsbestätigung kann mit der Annahmeerklärung verbunden werden.
+## CONCLUSION OF CONTRACT
 
-Wir sind berechtigt, das in der Bestellung liegende Vertragsangebot innerhalb einer Frist von 5 Werktagen nach Eingang bei uns anzunehmen. Wir sind aber auch berechtigt, die Annahme der Bestellung, etwa nach Prüfung der Bonität des Kunden, abzulehnen.
+Our offers are subject to change. We reserve the right to make technical and other changes within reason.
 
-## Leistungserbringung
+Upon ordering, you are bound to the tentative offer. We will confirm the receipt of your order immediately. The confirmation is not contractually binding. The confirmation and acceptance of the contract may be incorporated together.
 
-Leistungen werden von freistil IT auf dem Gebiet der Bundesrepublik Deutschland erbracht.
+We are entitled to accept the offer of a contract (the order) within a period of 5 working days after receipt. We are also entitled to reject the order after examining your reliability.
+The services offered are those valid at the time of the order based on our service information and our order form.
 
-Soweit freistil IT sich zum Erbringen angebotener Dienste Dritter bedient, werden diese nicht Vertragspartner des Kunden.
+## PRIVACY
+We will collect and use your personal data only if they are required for the creation, content arrangement or modification of the contractual relationship. You are obligated to keep us up-to-date on this information.
 
-Wir behalten uns das Recht vor, die angebotenen Leistungen zu erweitern, zu verändern oder Verbesserungen vorzunehmen. Wir sind auch berechtigt, die Leistungen zu verringern. Führt eine Leistungsverringerung dazu, dass das Gleichgewicht von Leistung und Gegenleistung mehr als unwesentlich beeinträchtigt wird, so steht dem Kunden das Recht auf eine angemessene Minderung der Vergütung zu. Für den Fall, dass sich die Parteien auf eine derartige Minderung nicht einigen können, steht jeder Partei das Recht zur außerordentlichen schriftlichen Kündigung zu.
+We will use your email address only for information on orders, invoices and customer care.
 
-Soweit freistil IT kostenlose Dienste und Leistungen erbringt, können diese jederzeit und ohne Vorankündigung eingestellt werden. Ein Minderungs-/Erstattungs- oder Schadensersatzanspruch ergibt sich daraus nicht.
+We will not give any personal information of clients to third parties, with the exception of service partners as far as they are required by us to deliver our service. 
 
-Soweit Gegenstand des Vertragsverhältnisses die Registrierung von Domainnamen ist, schulden wir lediglich die Vermittlung der gewünschten Domain. Von einer tatsächlichen Zuteilung des Domainnamens kann der Kunde daher erst dann ausgehen, wenn dieser durch uns bestätigt ist. Wir haben auf die Domainvergabe keinen Einfluss. Eine Haftung und Gewährleistung für die tatsächliche Zuteilung der bestellten Domainnamen ist deshalb ausgeschlossen.
+You have the right to information and a right to amend, to suspend or to delete your saved information. If deletion conflicts with a legal or contractual duty to save information, or other legal grounds, we will make the information inaccessible.
 
-Im Übrigen ergibt sich der Leistungsumfang aus der im Zeitpunkt der Bestellung geltenden Angebotsinformation, dem Bestellformular sowie den jeweils geltenden monatlichen Sonderangeboten.
+## TERMS OF PAYMENT
 
-## Vergütung und Zahlungskonditionen
+All accounts are set up on a pre-pay basis. All pricing is guaranteed for the term of prepayment.
 
-Es gelten die jeweils aktuellen Preise, die jederzeit auf der jeweiligen Produkt-Website einsehbar sind.
+We reserve the right to change prices at any time, unless other terms have been agreed upon.
+Terms of payment are C.O.D. payable via credit card unless we grant credit approval. If credit approval has been granted, credit terms are net 10 days upon receipt of invoice. We reserve the right to revoke any credit extended if payment is in arrears for more than 30 days.
 
-Je nach vertraglicher Vereinbarung erfolgt eine monatliche oder jährliche Abrechnung. Der erste Abrechnungsmonat ist der Monat des Vertragsabschlusses.
+Any account not brought current within a week (7 days) of email notice or exceeding this time frame in any way is subject to suspension. You are responsible for all fees owed on the account from the time it was established to the time that you notify us to request for termination of services.
 
-Die anfallenden Entgelte werden dem Kunden für den vereinbarten Abrechnungszeitraum im voraus in Rechnung gestellt.
+Invoices are sent via email. If you wish to receive invoices by ordinary post, we are entitled to charge a reasonable service fee.
 
-Kommt der Kunde mit der Entrichtung der Vergütung in Verzug, ist er verpflichtet, Zinsen in Höhe von 8% (bei Verbrauchern 5%) über dem Diskontsatz der Deutschen Bundesbank an freistil IT zu bezahlen, es sei denn, dass freistil IT eine höhere Zinslast nachweisen kann. Er ist ebenfalls verpflichtet, alle Kosten eines anschließenden gerichtlichen Mahnverfahrens zu tragen.
+We will bill you €50 per returned direct debit and per credit card chargeback received.
 
-Bei Zahlungsverzug des Kunden ist freistil IT außerdem berechtigt, die vereinbarten IT-Dienstleistungen sofort einzustellen. Wir werden den Kunden zuvor um Stellungnahme innerhalb einer angemessenen Frist ersuchen.
+## WARRANTIES AND LIABILITY
 
-## Kündigung
+We make no warranties or representations of any kind, whether expressed or implied for the service we are providing. We also disclaim any warranty of merchantability or fitness for any particular purpose and will not be responsible for any damages that you may suffer, including loss of data resulting from delays, non-deliveries or service interruptions by any cause or errors or omissions of you.
 
-Der Vertrag beginnt zum Unterzeichnungsdatum und endet mit der Kündigung durch eine der Parteien. Soweit vertraglich nichts anderes vereinbart wurde, werden Verträge auf unbefristete Zeit geschlossen.
+Use of any information obtained by way of us is at your own risk, and we specifically deny any responsibility for the accuracy or quality of information obtained through our services.
 
-Der Vertrag ist von beiden Seiten jeweils mit einer Frist von 30 Tagen zum Monatsende, ohne Angabe von Gründen, kündbar, frühestens jedoch zum Ablauf der jeweils vertraglich vereinbarten Mindestvertragslaufzeit. Eine Kündigung kann nur schriftlich per Brief, Fax oder über den gesicherten Online-Administrationsbereich erfolgen, soweit diese Möglichkeit zur Verfügung steht.
+Connection speed represents the speed of an end-to-end connection. We do not represent guarantees of speed or availability of end-to-end connections. We expressly limit our damages to you for any non-accessibility time or other down time to the pro-rata monthly charge during the system unavailability. We specifically deny any responsibilities for any damages arising as a consequence of such unavailability.
 
-Bei Kündigung des Vertrags durch den Kunden erfolgt keine Erstattung des für den Abrechnungszeitraum vorbezahlten Entgelts.
+We assume no liability for direct damages, secondary damages or lost profits due to technical problems and disturbances within the Internet that are not under our control.
 
-Kommt der Kunde für zwei aufeinanderfolgende Abrechnungszeiträume mit der Bezahlung der Vergütung in Verzug, so kann freistil IT das Vertragsverhältnis ohne Einhaltung einer Frist kündigen. Die Geltendmachung weiterer Ansprüche wegen Zahlungsverzuges bleibt freistil IT vorbehalten.
+With regards to contractors, we are not liable for minor negligence of contractual obligations. This does not apply to all cases of personal injury and is in accordance with product liability regulations. 
 
-## Pflichten und Obliegenheiten des Kunden
+For indirect damages and loss of profits, we are liable only in cases of intentional or gross negligence. In this case, we are liable only for the contract-typical predictable damage, a maximum of 100% of the annual fee.
 
-Für den Inhalt der veröffentlichten Informationen ist der Kunde selbst verantwortlich. freistil IT kann den Vertrag fristlos kündigen und die Seiten des Kunden sofort sperren, falls deren Inhalt gegen geltendes Recht verstößt, Dritte negativ darstellt oder öffentlichen Anstoß erregt.
+If your web content is in violation of the Acceptable Use Policy explained in this Agreement, particularly in violation of legal prohibitions or morality, you shall be liable to us for all of the resulting direct and indirect damages, including property damage. 
 
-Der Kunde stellt freistil IT von sämtlichen Ansprüchen Dritter frei.
+In addition, you agree to free us from all claims by third parties – no matter which kind – that may result from illegal internet content. The exemption obligation includes liability for all legal defence costs (e.g. court and legal representation fees).
 
-Der Kunde ist verpflichtet, die durch freistil IT erbrachten Leistungen sachgerecht zu nutzen. Unter einer sachgerechten Nutzung verstehen die Parteien insbesondere:
+## TRADEMARKS AND COPYRIGHTED MATERIAL
 
-  * Unterlassung jeglicher missbräuchlicher Nutzung,
-  * Unterlassung von strafbaren oder rechtswidrigen Handlungen,
-  * Unterlassung jeglichen Verstoßes gegen gesetzliche Vorschriften,
-  * Erfüllung gesetzlicher und behördlicher Auflagen unter eigener Verantwortung, sofern im Rahmen der Umsetzung dieses Vertrages von seiten des Kunden erforderlich,
-  * Unterlassung jeglicher Beeinträchtigung der freien Meinungsäußerung anderer,
-  * Unterlassung jeglicher Beeinträchtigung der Privatsphäre Dritter,
-  * Unterlassung jeglicher Gefährdung der Vertraulichkeit,
-  * Unterlassung jeglicher Gefährdung der Sicherheitsvorkehrungen des Systems, jegliche Unterlassung von Handlungen und Äußerungen, die gegen die guten Sitten verstoßen,
-  * Anpassung an die Netikette und an die Politik der gebotenen Verhaltensweisen im Netz (Acceptable User Policies) der vom Kunden in Anspruch genommenen Datennetze,
-  * Unterlassung des Versands kommerzieller Massen-E-Mail ohne das ausdrückliche Einverständnis der Adressaten („Spam“),
-  * erkennbare Mängel oder Schäden unverzüglich schriftlich an freistil IT anzuzeigen,
-  * Unterlassung aller Handlungen, die die Datensicherheit gefährden,
-  * Verpflichtung zur Geheimhaltung von Passworten bzw. unmittelbare Änderung des Passwortes, falls eine Kenntnisnahme durch Dritte zu befürchten ist.
+You warrant that you have the right to use any applicable trademarks or copyrighted material used in connection with this service.
 
-Verstößt der Kunde gegen die oben genannten Pflichten, so ist freistil IT nach erfolgloser Abmahnung berechtigt, das Vertragsverhältnis fristlos zu kündigen.
+## ACCEPTABLE USE POLICY
 
-## Datensicherheit
+We reserve the right to suspend or cancel your access to any or all services provided by us when we decide that you used the service in an inappropriate way.
 
-Soweit der Kunde Daten an freistil IT übermittelt, stellt er eigenständig Sicherheitskopien her. Im Falle eines Datenverlustes übermittelt der Kunde seine Daten erneut unentgeltlich an freistil IT.
+Any attempt to undermine or cause harm to a server or customer of ours is strictly prohibited. We will strongly react to any use or attempted use of an Internet account or computer without the owner’s authorization. Such attempts include Internet scamming (tricking other people into releasing their passwords), password theft, security hole scanning, etc. Any unauthorized use of accounts or computers by you, whether or not the attacked account or computer belongs to us, will result in action against you. Possible actions include warnings, account suspension or cancellation, as well as civil or criminal legal action, depending on the seriousness of the attack.
 
-Der Kunde ist verpflichtet, vor jeder eigenen oder in Auftrag gegebenen Änderung eine vollständige Datensicherung durchzuführen.
+__IMPORTANT NOTE__ – We reserve the right to discontinue service or deny access to anyone who violates our policies WITHOUT WARNING or PRIOR NOTICE. No refunds of fees paid will be made if account termination is due to violation of the terms outlined.
 
-freistil IT erstellt tägliche Backups der Dateien und Datenbankinhalte der Kunden-Websites und bewahrt diese für die Dauer von 3 Tagen auf. Diese Backups dienen der Wiederherstellung des Betriebs nach einer gravierenden Systemstörung. freistil IT gewährt dem Kunden keinen Zugriff auf diese Backups und wird diese nicht zur Wiederherstellung eines durch den Kunden verursachten Datenverlusts einsetzen.
+Unacceptable use also includes but is not limited to: Bulk emailing, unsolicited emailing, newsgroup spamming, illegal content, copyright infringement, trademark infringement, link farming (the act of or by use of scripts), link grinding, link-only sites, spamdexing, and FFA (Free-For-All).
 
-Der Kunde erhält zur Nutzung der von freistil IT bereitgestellten IT-Dienste persönliche Zugangsdaten. Er ist verpflichtet, diese vertraulich zu behandeln und haftet für jeden Missbrauch, der aus einer unberechtigten Verwendung dieser Zugangsdaten resultiert. Erlangt der Kunde davon Kenntnis, dass unbefugten Dritten die Zugangsdaten bekannt sind, hat er freistil IT hiervon unverzüglich zu informieren. Sollten infolge Verschuldens des Kunden Dritte durch Missbrauch der Zugangsdaten Leistungen von uns nutzen, haftet der Kunde uns gegenüber auf Nutzungsentgelt und Schadensersatz. Im Verdachtsfall hat der Kunde deshalb die Möglichkeit, neue Zugangsdaten anzufordern, die wir dem Kunden dann zusenden.
+We reserve the right to shut down immediately and without prior notice all web applications that are out-of-date and actively being exploited. You are responsible for and should evaluate your web applications on a regular basis to ensure their security and orderliness.
 
-## Datenschutz- und Kontrollrechte
+Unsolicited commercial advertisements (“spam”) are not allowed in email, and will likely result in account cancelation. We take a zero-tolerance approach to spam originating from our servers or for spam advertising of domains hosted within our network. If found, we will charge you up to €25 per unsolicited email message sent and delete your account without any prior notice.
 
-Die Datenschutzpraxis bei freistil IT steht im Einklang mit dem Bundesdatenschutzgesetz (BDSG) sowie dem Telemediengesetz (TMG).
+## TERMINATION
 
-Personenbezogene Daten des Kunden werden nur erhoben und verwendet, soweit sie für die Begründung, inhaltliche Ausgestaltung oder Änderung des Vertragsverhältnisses erforderlich sind. Der Kunde verpflichtet sich, freistil IT über diese Daten auf dem aktuellen Stand zu halten.
+Where not otherwise contractually agreed, a contract will be in place for an indefinite period of time.
 
-Die E-Mail-Adressen des Kunden werden ausschließlich für Informations-Schreiben zu den Aufträgen, für Rechnungen und, sofern der Kunde nicht widerspricht, zur Kundenpflege genutzt.
+Both parties may cancel their contract effective to the end of the current billing period.
 
-freistil IT gibt keine personenbezogenen Kundendaten an Dritte weiter. Ausgenommen hiervon sind Dienstleistungspartner, soweit dies zur Erbringung der vereinbarten Leistungen und zur Abrechnung mit dem Kunden erforderlich ist.
+We may terminate our contract at our sole discretion upon the occurrence of one or more of the following events:
 
-Der Kunde hat ein Recht auf Auskunft sowie ein Recht auf Berichtigung, Sperrung und Löschung seiner gespeicherten Daten. Sofern einer Löschung gesetzliche oder vertragliche Aufbewahrungspflichten oder sonstige gesetzliche Gründe entgegenstehen, werden die Daten gesperrt.
+* failure to pay a substantial part of the compensation owed for two consecutive months,
+* failure to comply with any provisions of the Agreement upon receipt of written notice from us of said failure,
+* appointment of receiver or upon the filing of any application by you seeking relief from creditors, 
+* upon mutual agreement in writing from you and us.
 
-Der Kunde räumt freistil IT das Recht ein, die vom Kunden eingespeisten und abgerufenen Daten zu lesen und zu überprüfen, wenn freistil IT aus vernünftigen Erwägungen heraus davon ausgehen muss, dass der gesamte oder ein Teil der elektronischen Daten mit illegalen Handlungen verbunden ist, oder der Inhalt der Daten gegen die guten Sitten verstößt. Darüber hinaus räumt der Kunde freistil IT das Recht ein, sich zu allen gespeicherten Daten im IT-System Zugang zu verschaffen, sofern dies im Rahmen einer korrekten Verwaltung des Systems erforderlich ist.
+## INDEMNIFICATION
 
-## Beweisklausel
+You shall indemnify and hold us harmless from and against any and all claims, judgments, awards, costs, expenses, damages and liabilities (including reasonable attorney fees) of whatsoever kind and nature that may be asserted, granted or imposed against us directly or indirectly arising from or in connection with your marketing or support services of the product or services or the unauthorized representation of the product and services or any breach of this Agreement by you.
 
-Die im IT-System von freistil IT auf dauerhaftem und unveränderlichem Träger gespeicherten elektronisch, verarbeiteten Register sind als Beweismittel der Datenübertragungen, Verträge und ausgeführten Zahlungen zwischen den Parteien zugelassen.
+## RESALE
 
-## Haftung
+You are entitled to grant usage rights on the services we provide for you to third parties. In this case, you still remain our sole contract partner. You are required to pass all terms and conditions stated by this Agreement and our order forms on to the third party and to bind them to these conditions contractually.
 
-freistil IT haftet nicht für Schadensersatzansprüche aus Unmöglichkeit der Leistung, positiver Forderungsverletzung, Verschulden bei Vertragsschluss und unerlaubter Handlung, es sei denn, dass dem verantwortlichen Mitarbeiter vorsätzliches oder grob fahrlässiges Handeln nachgewiesen werden kann.
+If changes of any kind require the cooperation of the third party, you ensure contractually that they meet these obligations. On our request, you will inform us of the address and contact details of the third party. In the case of changes, we are entitled to contact the third party directly to request their written consent on these changes.
 
-Auch im übrigen haftet freistil IT nur bei Vorsatz oder grober Fahrlässigkeit.
+If the third party is in violation of these contractual obligations, does not fulfil their cooperation duties or if any other problems arise out of usage rights granted to a third party, you are fully liable for all resulting damages. Furthermore, you indemnify us from and against all claims, judgments, awards, costs, expenses, damages and liabilities the third party or others may impose against us.
 
-Es besteht keine Haftung von freistil IT für die übermittelten Informationen und zwar insbesondere nicht für deren Vollständigkeit, Richtigkeit oder Aktualität, auch nicht dafür, dass die Informationen für den beabsichtigten Zweck des Kunden tauglich sind.
+## GENERAL
 
-freistil IT haftet auch nicht dafür, dass die übermittelten Informationen frei von Rechten Dritter sind oder der Absender im Rahmen der Übermittlung gegen geltende Gesetze oder sonstige Normen verstoßen hat.
-
-Verstößt der Kunde mit dem Inhalt der übermittelten Informationen gegen seine vertraglich vereinbarten Pflichten, insbesondere gegen gesetzliche Verbote oder die guten Sitten, so haftet er uns gegenüber auf Ersatz aller hieraus entstehenden direkten und indirekten Schäden, auch Vermögensschäden. Darüber hinaus verpflichtet sich der Kunde, uns von Ansprüchen Dritter -- gleich welcher Art -- freizustellen, die aus der Rechtswidrigkeit von in das Internet gestellten Inhalten resultieren. Die Freistellungsverpflichtung umfasst auch die Verpflichtung, uns von Rechtsverteidigungskosten (z.B. Gerichts- und Anwaltskosten) vollständig freizustellen.
-
-freistil IT haftet nicht für Leistungseinschränkungen oder Leistungsausfälle, die aufgrund höherer Gewalt oder auf Ereignissen beruhen, die regelmäßig eine Leistung wesentlich erschweren oder unmöglich machen. Hierzu zählen insbesondere Streik, Aussperrung, sowie behördliche Anordnungen.
-
-Für unmittelbare Schäden, Folgeschäden oder entgangenen Gewinn durch technische Probleme und Störungen innerhalb des Internets, die nicht in unserem Einflussbereich liegen, übernehmen wir keine Haftung.
-
-Für den Fall, dass gleichwohl eine Haftung von freistil IT eintritt, wird diese Haftung der Höhe nach auf 5.000 € beschränkt, soweit nicht Vorsatz oder grobe Fahrlässigkeit vorliegt.
-
-## Aufrechnung und Zurückbehaltungsrechte
-
-Der Kunde kann gegen Ansprüche von freistil IT nur mit unbestrittenen oder rechtskräftig festgestellten Forderungen aufrechnen. Dem Kunden steht die Geltendmachung eines Zurückbehaltungsrechts nur wegen Gegenansprüchen aus diesem Vertrag zu.
-
-## Regelungen für Wiederverkäufer
-
-Der Kunde ist berechtigt, Dritten ein vertragliches Nutzungsrecht an den von freistil IT für ihn betreuten IT-Diensten einzuräumen. In diesem Fall bleibt der Kunde dennoch alleiniger Vertragspartner. Er ist verpflichtet, sämtliche Vertragsbedingungen, die sich aus den Allgemeinen Geschäftsbedingungen sowie aus unseren Bestellformularen ergeben, innervertraglich an den Dritten weiterzuleiten und diesen zur Einhaltung dieser Bedingungen zu verpflichten.
-
-Sind für Änderungen sämtlicher Art Mitwirkungshandlungen des Dritten erforderlich, so stellt der Kunde innervertraglich sicher, dass diese Mitwirkungspflichten eingehalten werden. Der Kunde wird freistil IT auf Anforderung die Adressdaten nebst Ansprechpartner des Dritten mitteilen. freistil IT ist berechtigt, im Falle von Änderungen unmittelbar an den Dritten heranzutreten, um von diesem schriftlich die Zustimmung zu den Änderungen zu verlangen.
-
-Verstößt der Dritte gegen Vertragspflichten, erfüllt er Mitwirkungspflichten nicht oder ergeben sich anderweitig Probleme an der Einräumung von Nutzungsrechten an Dritte, so haftet der Kunde freistil IT gegenüber für alle hieraus resultierenden Schäden. Darüber hinaus stellt der Kunde freistil IT von sämtlichen Ansprüchen frei, die sowohl der Dritte als auch andere an freistil IT stellen werden.
-
-## Widerrufsbelehrung
-
-Widerrufsrecht: Der Kunde kann seine Vertragserklärung innerhalb von 2 Wochen ohne Angabe von Gründen in Textform (z.B. per Brief, Fax, E-Mail) widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung in Textform, jedoch nicht vor Vertragsschluss und auch nicht vor Erfüllung der Informationspflichten von freistil IT gemäß §312c Abs. 2 BGB in Verbindung mit §1 Abs. 1, 2 und 4 BGB-InfoV, sowie der Pflichten von freistil IT gemäß §312 Abs. 1 Satz 1 BGB in Verbindung mit §3 BGB-InfoV.
-
-Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs. Der Widerruf ist zu richten an: freistil IT GbR Jochen Lillich & Markus Heurung, Zähringer Straße 361, 79108 Freiburg, Deutschland.
-
-Widerrufsfolgen: Im Falle eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurückzugewähren.
-
-Das Widerrufsrecht des Kunden erlischt vorzeitig, wenn der Vertrag von beiden Seiten auf ausdrücklichen Wunsch des Kunden vollständig erfüllt ist, bevor er das Widerrufsrecht ausgeübt hat.
-
-Verpflichtungen zur Erstattung von Zahlungen müssen innerhalb von 30 Tagen erfüllt werden. Die Frist beginnt für den Kunden mit der Absendung seiner Widerrufserklärung, für freistil IT mit deren Empfang.
-
-## Rückfragen und Beanstandungen
-
-Rückfragen und Beanstandungen sind an  freistil IT GbR Jochen Lillich & Markus Heurung, Zähringer Straße 361, 79108 Freiburg, Deutschland zu richten.
+If any provision of this Agreement is held to be unenforceable, the enforceability of the remaining provisions shall in no way be affected or impaired thereby. This Agreement shall be governed by and construed in accordance with the laws of the Republic of Ireland. A failure by any party to exercise or delay in exercising a right or power conferred upon it in this Agreement shall not operate as a waiver of any such right or power.

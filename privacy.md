@@ -1,53 +1,147 @@
-# Datenschutzerklärung
+# Privacy Policy and Notice
 
-[Änderungshistorie der Datenschutzerklärung](https://github.com/freistil/tos/commits/master/Datenschutzerkla%CC%88rung.md)
+This is the **privacy notice of freistil IT Ltd**. In this document, "we" or "us" refers to freistil IT Ltd. We are company number 532004 registered in the Republic of Ireland. Our registered office is at 13 Connawood Drive, Bray, Co. Wicklow, Ireland.
 
-Wir freuen uns über Ihr Interesse an unserem Webauftritt! Der Schutz Ihrer persönlichen Daten liegt uns sehr am Herzen. An dieser Stelle möchten wir Sie daher über den Datenschutz in unserem Unternehmen informieren. Selbstverständlich beachten wir die gesetzlichen Bestimmungen des Datenschutzgesetzes (BDSG) des Telemediengesetzes (TMG) und anderer datenschutzrechtlicher Bestimmungen.
+This is a notice to tell you our policy about all information that we record about you. It covers both information that could identify you and information that could not.
 
-Bei Ihren persönlichen Daten können Sie uns vertrauen! Sie werden durch digitale Sicherheitssysteme verschlüsselt und an uns übertragen. Unsere Webseiten sind durch technische Maßnahmen gegen Beschädigungen, Zerstörung oder unberechtigten Zugriff geschützt.
+We are extremely concerned to protect your privacy and confidentiality. We understand that all users of our web site are quite rightly concerned to know that their data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party. Our policy is both specific and strict. It complies with Ireland law. If you think our policy falls short of your expectations or that we are failing to abide by our policy, do please tell us.
 
-### Gegenstand des Datenschutzes
+We regret that if there are one or more points below with which you are not happy, your only recourse is to leave our web site immediately.
 
-Gegenstand des Datenschutzes sind personenbezogene Daten. Diese sind nach § 3 Abs. 1 BDSG Einzelangaben über persönlich oder sachliche Verhältnisse einer bestimmten oder bestimmbaren natürlichen Person. Hierunter fallen z. B. Angaben wie Name, Post-Adresse, E-Mail-Adresse oder Telefonnummer, ggf. aber auch Nutzungsdaten wie Ihre IP-Adresse.
+Except as set out below, we do not share, or sell, or disclose to a third party, any personally identifiable information collected at this site.
 
-### Umfang der Datenerhebung und -speicherung
+Here is a list of the information we collect from you, either through our web site or because you give it to us in some other way, and why it is necessary to collect it:
 
-Im Allgemeinen ist es für die Nutzung unserer Website nicht erforderlich, dass Sie personenbezogene Daten angeben. Damit wir unsere Dienstleistungen aber tatsächlich erbringen können, benötigen wir ggf. Ihre personenbezogenen Daten. Dies gilt sowohl bei der Zusendung von Informationsmaterial oder bestellter Produkte bzw. Dienstleistungen sowie auch für die Beantwortung individueller Anfragen.
+## Basic identification and contact information, such as your name and contact details
 
-Wenn Sie uns mit der Erbringung einer Dienstleistung oder der Zusendung von Ware beauftragen, erheben und speichern wir Ihre persönlichen Daten grundsätzlich nur, soweit es für die Erbringung der Dienstleistung oder die Durchführung des Vertrages notwendig ist. Dazu kann es erforderlich sein, Ihre persönlichen Daten an Unternehmen weiterzugeben, die wir zur Erbringung der Dienstleistung oder zur Vertragsabwicklung einsetzen. Dies sind z. B. Transportunternehmen oder andere Service-Dienste.
+This information is used:
 
-Nach vollständiger Vertragsabwicklung werden Ihre Daten gesperrt und nach Ablauf der steuer- und handelsrechtlichen Vorschriften gelöscht, sofern Sie nicht ausdrücklich einer darüber hinausgehenden Datenverwendung zugestimmt haben.
+1. to provide you with the services which you request;
+2. for verifying your identity for security purposes;
+3. for marketing our services and products;
+4. information which does not identify any individual may be used in a general way by us or third parties, to provide class information, for example relating to demographics or usage of a particular page or service.
 
-Wenn Sie sich mit Ihrer E-Mail-Adresse für unseren Newsletter angemeldet haben, nutzen wir Ihre E-Mail-Adresse auch über die Vertragsdurchführung hinaus für eigene Werbezwecke, bis Sie sich vom Newsletter-Bezug abmelden.
+## Market place information
 
-### Daten-Erhebung durch Nutzung von Google Analytics
+When we obtain information from you specifically to enable you to buy a service offered on our web site by some other person, we assume that in giving us your information, you are also giving us permission to pass it to the relevant person.
 
-Unsere Webseite benutzt Google Analytics, einen Webanalysedienst der Google Inc. Google Analytics verwendet sogenannte "Cookies". Dabei handelt es sich um Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse ihrer Benutzung der Website ermöglicht. Erfasst werden beispielsweise Informationen zum Betriebssystem, zum Browser, Ihrer IP-Adresse, die von Ihnen zuvor aufgerufene Webseite (Referrer-URL) und Datum und Uhrzeit Ihres Besuchs auf unserer Webseite. Die durch diese Textdatei erzeugten Informationen über die Benutzung unserer Webseite werden an einen Server von Google in den USA übertragen und dort gespeichert. Google wird diese Information benutzen, um Ihre Nutzung unserer Webseite auszuwerten, um Reports über die Webseitenaktivität für die Webseitenbetreiber zusammen zu stellen und um weitere mit der Webseitennutzung und der Internetnutzung verbundenen Dienstleistungen zu erbringen. Sofern dies gesetzlich vorgeschrieben ist oder soweit Dritte diese Daten im Auftrag von Google verarbeiten, wird Google diese Information auch an diese Dritten weitergeben. Diese Nutzung erfolgt anonymisiert oder pseudonymisiert. Nähere Informationen darüber finden Sie direkt bei Google: http://www.google.com/intl/de/privacypolicy.html#information
+Your domain name and e-mail address are recognised by our servers and the pages that you visit are recorded. We shall not under any circumstances divulge your e-mail address to any person who is not an employee or contractor of ours and who does not need to know, either generally or specifically. This information is used:
 
-Google benutzt das DoubleClick DART-Cookie. Nutzer können die Verwendung des DART-Cookies deaktivieren, indem sie die Datenschutzbestimmungen des Werbenetzwerks und Content-Werbenetzwerks von Google aufrufen.
+* to correspond with you or deal with you as you expect;
+* in a collective way not referable to any particular individual, for the purpose of quality control and improvement of our site;
+* to send you news about the services to which you have signed up;
+* to tell you about other of our services or services of sister web sites.
 
-Dabei werden keinerlei unmittelbare persönliche Daten des Nutzers gespeichert, sondern nur die IP–Adresse. Diese Informationen dienen dazu, Sie bei Ihrem nächsten Besuch auf unseren Websites automatisch wiederzuerkennen und Ihnen die Navigation zu erleichtern. Cookies erlauben es uns beispielsweise, eine Website Ihren Interessen anzupassen oder Ihr Kennwort zu speichern, damit Sie es nicht jedes Mal neu eingeben müssen. 
+## Information you post on our website
 
-Selbstverständlich können Sie unsere Websites auch ohne Cookies nutzen. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihres Webbrowsers verhindern. Nähere Informationen hierzu übernehmen Sie bitte den Benutzungshinweisen Ihres Webbrowsers. Wenn Sie keine Cookies akzeptieren, kann dies aber zu Funktionseinschränkungen unserer Angebote führen.
+Information you send to us by posting to a forum or blog or in your advertisement is stored on our servers. We do not specifically use that information except to allow it to be read, but you will see in our terms and conditions that we reserve a right to use it in any way we decide.
 
-### Erhebung und Speicherung von Nutzungsdaten
+## Website usage information
 
-Zur Optimierung unserer Webseite sammeln und speichern wir Daten wie z. B. Datum und Uhrzeit des Seitenaufrufs, die Seite, von der Sie unsere Seite aufgerufen haben, und ähnliches, sofern Sie dieser Datenerhebung und -speicherung nicht widersprechen. Dies erfolgt anonymisiert, ohne den Benutzer der Seite persönlich zu identifizieren. Ggf. werden Nutzerprofile mittels eines Pseudonyms erstellt. Auch hierbei erfolgt keine Verbindung zwischen der hinter dem Pseudonym stehenden natürlichen Personen mit den erhobenen Nutzungsdaten zur Erhebung und Speicherung der Nutzungsdaten setzen wir auch Cookies ein. Diese Daten erheben wir ausschließlich, zu statistischen Zwecken, um unseren Internetauftritt weiter zu optimieren und unsere Internetangebote noch attraktiver gestalten zu können. Die Erhebung und Speicherung erfolgt ausschließlich in anonymisierter oder pseudonymisierter Form und lässt keinen Rückschluss auf Sie als natürliche Person zu.
+We may use software embedded in our website (such as JavaScript) to collect  information about which pages you view and how you reach them, what you do when you visit a page, the length of time you remain on the page, and how we perform in providing content to you.
 
-### Zweckgebundene Datenverwendung
+## Financial information relating only to your credit cards
 
-Wir beachten den Grundsatz der zweckgebundenen Daten-Verwendung und erheben, verarbeiten und speichern Ihre personenbezogenen Daten nur für die Zwecke, für die Sie sie uns mitgeteilt haben. Eine Weitergabe Ihrer persönlichen Daten an Dritte erfolgt ohne Ihre ausdrückliche Einwilligung nicht, sofern dies nicht zur Erbringung der Dienstleistung oder zur Vertragsdurchführung notwendig ist. Auch die Übermittlung an auskunftsberechtigte staatliche Institutionen und Behörden erfolgt nur im Rahmen der gesetzlichen Auskunftspflichten oder wenn wir durch eine gerichtliche Entscheidung zur Auskunft verpflichtet werden.
+This information is never taken by us either through our website or otherwise. At the point of payment, you are transferred to a secure page on the website of Stripe or some other reputable payment service provider. That page may be dressed in our "livery", but it is not controlled by us. Our staff and contractors never have access to it.
 
-Auch den unternehmensinternen Datenschutz nehmen wir sehr ernst. Unsere Mitarbeiter und die von uns beauftragten Dienstleistungsunternehmen sind von uns zur Verschwiegenheit und zur Einhaltung der datenschutzrechtlichen Bestimmungen verpflichtet worden.
+## Note on padlock symbols and other trust marks
 
-### Auskunfts- und Widerrufsrecht
+Many companies offer certification and an icon or other small graphic to prove to site visitors that the site is safe. Some certify to a high level of safety. Others are more concerned to take our money than to provide a useful service. We do not handle information about your credit card so do not subscribe to any such service. However, we suggest you assess this notice to judge that we do take your privacy seriously.
 
-Sie erhalten jederzeit ohne Angabe von Gründen kostenfrei Auskunft über Ihre bei uns gespeicherten Daten. Sie können jederzeit Ihre bei uns erhobenen Daten sperren, berichtigen oder löschen lassen und der anonymisierten oder pseudonymisierten Datenerhebung und -speicherung zu Optimierungszwecken unserer Website widersprechen. Auch können Sie jederzeit die uns erteilte Einwilligung zur Datenerhebung und Verwendung ohne Angaben von Gründen widerrufen. Wenden Sie sich hierzu bitte an die im [Impressum][1] angegebene Kontaktadresse. Wir stehen Ihnen jederzeit gern für weitergehende Fragen zu unserem Hinweisen zum Datenschutz und zur Verarbeitung Ihrer persönlichen Daten zur Verfügung.
+## Credit reference
 
-   [1]: /contact
+To assist in combating fraud, we share information with credit reference agencies so far as it relates to clients or customers who instruct their credit card issuer to cancel payment to us without having first provided an acceptable reason to us and given us the opportunity to refund their money.
 
-Beachten sie, dass sich Datenschutzbestimmungen und Handhabungen zum Datenschutz, z. B. bei Google, laufend ändern können. Es ist daher ratsam und erforderlich, sich über Veränderungen der gesetzlichen Bestimmungen und der Praxis von Unternehmen, z. B. Google, laufend zu informieren.
+## Business and personal information
 
-(Diese Datenschutzerklärung wurde erstellt auf Basis einer Vorlage von [Datenschutzerklaerung-Online.de][2])
+This includes all information given to us in the course of your business and ours, such as information you give us in your capacity as our client. We undertake to preserve the confidentiality of the information and of the terms of our relationship. It is not used for any other purpose. We expect you to reciprocate this policy.
 
-   [2]: http://www.datenschutzerklaerung-online.de/
+We keep information which forms part of our business record for minimum of six years. That is because we may need it in some way to support a claim or defence in court. That is also the period within which our tax collecting authorities may demand to know it.
+
+## Third party advertising
+
+Third parties may advertise on our web site. In doing so, those parties, their agents or other companies working for them may use technology that automatically collects your IP address when they send an advertisement that appears on our site to your browser. They may also use other technology such as cookies or JavaScript to personalise the content of, and to measure the performance of their adverts. We do not have control over these technologies or the data that these parties obtain. Accordingly, this privacy notice does not cover the information practices of these third parties.
+
+## Cookies
+
+Cookies are small text files that are placed on your computer's hard drive through your web browser when you visit any web site. They are widely used to make web sites work, or work more efficiently, as well as to provide information to the owners of the site.
+
+You can manually disable cookies at any time - check your browser’s "Help" to find out how. This will not affect your ability to view the site.
+
+Although your browser software enables you to disable cookies, this will not affect your ability to view the site. We recommend that you allow the use of cookies in order to take advantage of the features of our website that rely on their use. You can still use this web site even if you choose to disable cookies. Here are the ways we use cookies:
+
+* to record whether you have accepted the use of cookies on our website or not. If you did not accept our website might not work properly. 
+* to allow essential parts of our web site to operate for you.
+* to operate our content management system.
+* to operate the online notification form - the form that you use to contact us for any reason. This cookie is set on your arrival at our web site and deleted when you close your browser.
+* to enhance security on our contact form. It is set for use only through the contact form. This cookie is deleted when you close your browser.
+* to collect information about how visitors use our site. We use the information to improve your experience of our site and enable us to increase sales. This cookie collects information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from, and the pages they visited.
+* to store your personal information so that you do not have to provide it afresh when you visit the site next time. This cookie will last for 30 days.
+* to enable you to watch videos we have placed on YouTube. YouTube will not store personally identifiable cookie information when you use YouTube’s privacy-enhanced mode.
+
+## Calling our Help Center
+
+When you call our Help Center, we collect Calling Line Identification (CLI) information. We use this information to help improve the efficiency and effectiveness of our Help Center.
+
+## Sending a message to our Help Center
+
+When you send a message to our Help Center, we collect the data you have given to us in that message in order to obtain confirmation that you are entitled to receive the information and to provide to you the information you need. We record your request and our reply in order to increase the efficiency of our business / organisation.
+
+## Complaining
+
+When we receive a complaint, we record all the information you have given to us. We use that information to resolve your complaint.  If your complaint reasonably requires us to contact some other person, we may decide to give to that other person some of the information contained in your complaint. We do this as infrequently as possible, but it is a matter for our sole discretion as to whether we do give information, and, if we do, what that information is.
+
+We may also compile statistics showing information obtained from this source to assess the level of service we provide, but not in a way that could identify you or any other person.
+
+## Third party content
+
+Our web site is a publishing medium in that anyone may register and then publish information about himself or some other person. We do not moderate or control what is posted. If you complain about any of the content on our web site, we shall investigate your complaint. If we feel it may be justified, we shall remove it while we investigate. Free speech is a fundamental right, so we have to make a judgement as to whose right will be obstructed: yours, or that of the person who posted the content which offends you. If we think your complaint is vexatious or without any basis, we shall not correspond with you about it.
+
+## Job application
+
+If you send us information in connection with a job application, we may keep it for up to three years in case we decide to contact you at a later date.
+
+## Content you provide to us
+
+If you provide information to us with a view to it being read, copied, downloaded or used by other people, we accept no responsibility for what that third party may do with it. It is up to you to satisfy yourself about the privacy level of every person who might see your information. If it is available to the entire World, you have no control whatever as to how it is used.
+
+## Marketing information
+
+With your permission we pass your email address and name to selected associates whom we consider may provide services or products you would find useful. You may opt out of this service at any time by instructing us at http://www.freistil.it/contact.
+
+## Information we obtain from third parties
+
+Although we do not disclose your personal information to any third party (except as set out in this notice), we do receive data which is indirectly made up from your personal information, from software services. No such information is identifiable to you.
+
+## Affiliate information
+
+This is information given to us by you in your capacity as an affiliate of us or a customer or client of ours. Such information is retained for business use only. We undertake to preserve the confidentiality of the information and of the terms of our relationship.  It is not used for any other purpose.  We expect any affiliate to agree to reciprocate this policy. As an exception to this, we have the right to disclose your first name and URL of your affiliate connection to other affiliates and to any other person or organisation, on and off site. The reason is solely to enable us to mention winners and others whose performance as an affiliate is in some way outstanding.
+
+## Disclosure to Government and their agencies.
+
+We are subject to the law like everyone else. We may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.  
+
+## Right to review and update
+
+At any time you may review or update the personally identifiable information that we hold about you, by contacting us at the address below. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+
+## Sale of your personal information
+
+Except as specified above, we do not rent, sell or otherwise disclose any of your information to any person outside our business.
+
+## Data may be "processed" outside the Ireland
+
+Our web sites are hosted in Germany. We also use outsourced services in countries outside the EU from time to time in other aspects of our business. Accordingly data obtained within Ireland may be "processed" outside of Ireland and data obtained in any other country may be processed within or outside that country.
+
+## Compliance with the law
+
+This confidentiality policy has been compiled so as to comply with the law of every jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your country, we should like to hear from you, but ultimately it is your choice as to whether you wish to use our website.
+
+## Removal of your information
+
+If you wish us to remove personally identifiable information from our web site, you may contact us at http://www.freistil.it/contact. To better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
+
+
+## Contact
+
+If you have any question regarding the privacy policy, please contact us via http://www.freistil.it/contact.
