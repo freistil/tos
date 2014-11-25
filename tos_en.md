@@ -2,16 +2,18 @@
 
 __between__
 
-* you, the client, hereafter referred to as “you”, and
+* you, the client, hereafter referred to as "you", and
 * freistil IT Limited, a company incorporated in the Republic of Ireland under company registration 532004 and whose registered office is at 13 Connawood Drive, Bray, Co. Wicklow, Ireland; hereafter referred to as "we" or "us".
 
-The purpose of this agreement (hereafter referred to as the “Agreement”) is to precede a longer-term contract arrangement under which freistil IT will provide IT services (e.g. web hosting) on behalf of you.
+The purpose of this agreement (hereafter referred to as the "Agreement") is to precede a longer-term contract arrangement under which freistil IT will provide IT services (e.g. web hosting) on behalf of you.
+
 
 ## SCOPE
 
 The following terms and conditions apply to all business relationships between you and us. The governing law is that which was valid when the contract was put into effect.
 
 Dissenting, conflicting or additional customer terms and conditions, even if acknowledged, are not part of the contract unless their validity is expressly agreed upon. 
+
 
 ## CONCLUSION OF CONTRACT
 
@@ -22,7 +24,9 @@ Upon ordering, you are bound to the tentative offer. We will confirm the receipt
 We are entitled to accept the offer of a contract (the order) within a period of 5 working days after receipt. We are also entitled to reject the order after examining your reliability.
 The services offered are those valid at the time of the order based on our service information and our order form.
 
+
 ## PRIVACY
+
 We will collect and use your personal data only if they are required for the creation, content arrangement or modification of the contractual relationship. You are obligated to keep us up-to-date on this information.
 
 We will use your email address only for information on orders, invoices and customer care.
@@ -30,6 +34,7 @@ We will use your email address only for information on orders, invoices and cust
 We will not give any personal information of clients to third parties, with the exception of service partners as far as they are required by us to deliver our service. 
 
 You have the right to information and a right to amend, to suspend or to delete your saved information. If deletion conflicts with a legal or contractual duty to save information, or other legal grounds, we will make the information inaccessible.
+
 
 ## TERMS OF PAYMENT
 
@@ -43,6 +48,7 @@ Any account not brought current within a week (7 days) of email notice or exceed
 Invoices are sent via email. If you wish to receive invoices by ordinary post, we are entitled to charge a reasonable service fee.
 
 We will bill you €50 per returned direct debit and per credit card chargeback received.
+
 
 ## WARRANTIES AND LIABILITY
 
@@ -62,9 +68,11 @@ If your web content is in violation of the Acceptable Use Policy explained in th
 
 In addition, you agree to free us from all claims by third parties – no matter which kind – that may result from illegal internet content. The exemption obligation includes liability for all legal defence costs (e.g. court and legal representation fees).
 
+
 ## TRADEMARKS AND COPYRIGHTED MATERIAL
 
 You warrant that you have the right to use any applicable trademarks or copyrighted material used in connection with this service.
+
 
 ## ACCEPTABLE USE POLICY
 
@@ -78,7 +86,8 @@ Unacceptable use also includes but is not limited to: Bulk emailing, unsolicited
 
 We reserve the right to shut down immediately and without prior notice all web applications that are out-of-date and actively being exploited. You are responsible for and should evaluate your web applications on a regular basis to ensure their security and orderliness.
 
-Unsolicited commercial advertisements (“spam”) are not allowed in email, and will likely result in account cancelation. We take a zero-tolerance approach to spam originating from our servers or for spam advertising of domains hosted within our network. If found, we will charge you up to €25 per unsolicited email message sent and delete your account without any prior notice.
+Unsolicited commercial advertisements ("spam") are not allowed in email, and will likely result in account cancelation. We take a zero-tolerance approach to spam originating from our servers or for spam advertising of domains hosted within our network. If found, we will charge you up to €25 per unsolicited email message sent and delete your account without any prior notice.
+
 
 ## TERMINATION
 
@@ -93,9 +102,11 @@ We may terminate our contract at our sole discretion upon the occurrence of one 
 * appointment of receiver or upon the filing of any application by you seeking relief from creditors, 
 * upon mutual agreement in writing from you and us.
 
+
 ## INDEMNIFICATION
 
 You shall indemnify and hold us harmless from and against any and all claims, judgments, awards, costs, expenses, damages and liabilities (including reasonable attorney fees) of whatsoever kind and nature that may be asserted, granted or imposed against us directly or indirectly arising from or in connection with your marketing or support services of the product or services or the unauthorized representation of the product and services or any breach of this Agreement by you.
+
 
 ## RESALE
 
@@ -104,6 +115,7 @@ You are entitled to grant usage rights on the services we provide for you to thi
 If changes of any kind require the cooperation of the third party, you ensure contractually that they meet these obligations. On our request, you will inform us of the address and contact details of the third party. In the case of changes, we are entitled to contact the third party directly to request their written consent on these changes.
 
 If the third party is in violation of these contractual obligations, does not fulfil their cooperation duties or if any other problems arise out of usage rights granted to a third party, you are fully liable for all resulting damages. Furthermore, you indemnify us from and against all claims, judgments, awards, costs, expenses, damages and liabilities the third party or others may impose against us.
+
 
 ## GENERAL
 
