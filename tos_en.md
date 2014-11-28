@@ -1,5 +1,7 @@
 # Terms of Service
 
+_Version: 2.0.0_
+
 __between__
 
 * you, the client, hereafter referred to as "you", and
