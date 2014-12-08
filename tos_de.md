@@ -1,4 +1,4 @@
-# Servicebedingungen
+# Allgemeine Geschäftsbedingungen
 
 _Version: 2.0.0_
 
@@ -7,14 +7,14 @@ __zwischen__
 * Ihnen, dem Kunden, nachstehend als "Sie" bezeichnet, und
 * freistil IT Limited, einer in der Republik Irland unter der Registernummer 532004 eingetragenen Gesellschaft mit Geschäftssitz in 13 Connawood Drive, Bray, Co. Wicklow, Irland; nachstehend als "wir" oder "uns" bezeichnet.
 
-Dieser Vertrag (nachstehend als der "Vertrag" bezeichnet) soll einer längerfristigen vertraglichen Vereinbarung, im Rahmen derer freistil IT in Ihrem Auftrag IT-Dienstleistungen (z. B. Webhosting) erbringt, vorangehen.
+Diese Vereinbarung soll einer längerfristigen vertraglichen Bindung, im Rahmen derer freistil IT in Ihrem Auftrag IT-Dienstleistungen (z. B. Webhosting) erbringt, vorangehen.
 
 
 ## GELTUNGSBEREICH
 
-Die folgenden Geschäftsbedingungen gelten für sämtliche Geschäftsbeziehungen zwischen Ihnen und uns. Das anwendbare Recht ist jenes, das zum Zeitpunkt der Inkraftsetzung des Vertrags gültig war.
+Die folgenden Geschäftsbedingungen gelten für sämtliche Geschäftsbeziehungen zwischen Ihnen und uns. Das anwendbare Recht ist jenes, das zum Zeitpunkt der Inkraftsetzung der Vereinbarung gültig war.
 
-Abweichende, widersprüchliche oder zusätzliche Geschäftsbedingungen des Kunden bilden, auch wenn diese anerkannt wurden, keinen Bestandteil des Vertrags, es sei denn, ihre Rechtsgültigkeit wird ausdrücklich vereinbart .
+Abweichende, widersprüchliche oder zusätzliche Geschäftsbedingungen des Kunden bilden, auch wenn diese anerkannt wurden, keinen Bestandteil der Vereinbarung, es sei denn, ihre Rechtsgültigkeit wird ausdrücklich vereinbart .
 
 
 ## VERTRAGSABSCHLUSS
@@ -67,7 +67,7 @@ Was Auftragnehmer betrifft, haften wir nicht für leichte Fahrlässigkeit in Bez
 
 In Bezug auf indirekte Schäden und Gewinnausfälle haften wir lediglich in Fällen vorsätzlicher oder grober Fahrlässigkeit. In solchen Fällen haften wir lediglich für den vertragstypischen vorhersehbaren Schaden, maximal 100 Prozent der Jahresgebühr.
 
-Wenn Ihr Web-Inhalt gegen die in diesem Vertrag erklärte "Acceptable Use Policy" (Nutzungsrichtlinie) verstößt, insbesondere Verstöße gegen gesetzliche Verbote oder Moralität, haften Sie uns gegenüber für alle entstandenen direkten und indirekten Schäden, einschließlich Sachschäden. 
+Wenn Ihr Web-Inhalt gegen die in dieser Vereinbarung erklärte "Acceptable Use Policy" (Nutzungsrichtlinie) verstößt, insbesondere Verstöße gegen gesetzliche Verbote oder Moralität, haften Sie uns gegenüber für alle entstandenen direkten und indirekten Schäden, einschließlich Sachschäden. 
 
 Darüber hinaus verpflichten Sie sich, uns gegenüber allen Ansprüchen von Dritten, gleich welcher Art, die aus illegalem Internetinhalt entstehen können, freizustellen. Die Freistellungsverpflichtung umfasst jegliche Haftung in Verbindung mit sämtlichen Rechtsverteidigungskosten (z. B. Gerichts- und Rechtsanwaltskosten).
 
@@ -108,12 +108,12 @@ Wir können unseren Vertrag nach unserem alleinigen Ermessen bei Eintritt eines 
 
 ## SCHADENSERSATZ
 
-Sie entschädigen uns und halten uns schadlos in Bezug auf alle Schadensersatzansprüche, Urteile, Zuerkennungen, Kosten, Ausgaben, Schäden und Haftungen (einschließlich angemessener Rechtsanwaltskosten) jeglicher Art, die gegen uns erhoben, gewährt oder uns auferlegt werden können und die direkt oder indirekt auf Ihrem Marketing oder Ihren Support-Dienstleistungen in Bezug auf das Produkt oder die Dienstleistungen oder der unbefugten Repräsentation des Produkts und der Dienstleistungen oder Ihrer Nichteinhaltung dieses Vertrags beruhen.
+Sie entschädigen uns und halten uns schadlos in Bezug auf alle Schadensersatzansprüche, Urteile, Zuerkennungen, Kosten, Ausgaben, Schäden und Haftungen (einschließlich angemessener Rechtsanwaltskosten) jeglicher Art, die gegen uns erhoben, gewährt oder uns auferlegt werden können und die direkt oder indirekt auf Ihrem Marketing oder Ihren Support-Dienstleistungen in Bezug auf das Produkt oder die Dienstleistungen oder der unbefugten Repräsentation des Produkts und der Dienstleistungen oder Ihrer Nichteinhaltung dieser Vereinbarung beruhen.
 
 
 ## WEITERVERKAUF
 
-Sie sind berechtigt, Dritten Nutzungsrechte der Ihnen von uns erbrachten Dienstleistungen zu gewähren. In diesem Fall bleiben Sie weiterhin unser einziger Vertragspartner. Sie müssen sämtliche Bedingungen dieses Vertrags sowie unsere Bestellformulare an den Dritten weitergeben und ihn vertraglich an diese binden.
+Sie sind berechtigt, Dritten Nutzungsrechte der Ihnen von uns erbrachten Dienstleistungen zu gewähren. In diesem Fall bleiben Sie weiterhin unser einziger Vertragspartner. Sie müssen sämtliche Bedingungen dieser Vereinbarung sowie unsere Bestellformulare an den Dritten weitergeben und ihn vertraglich an diese binden.
 
 Wenn aufgrund von irgendwelchen Änderungen die Mitwirkung des Dritten erforderlich ist, stellen Sie vertraglich sicher, dass diese Verpflichtungen von ihm erfüllt werden. Auf unser Verlangen teilen Sie uns die Anschrift und Kontaktdetails des Dritten mit. Im Fall von Änderungen sind wir berechtigt, den Dritten direkt zu kontaktieren, um seine schriftliche Einwilligung zu den Änderungen einzuholen.
 
@@ -122,4 +122,4 @@ Wenn der Dritte gegen diese vertraglichen Verpflichtungen verstößt, seine Mitw
 
 ## ALLGEMEINES
 
-Sollte eine Bestimmung dieses Vertrags undurchsetzbar sein, sind die übrigen Bestimmungen in keiner Weise betroffen oder beeinträchtigt. Dieser Vertrag unterliegt dem Recht der Republik Irland und ist dementsprechend auszulegen. Die Nichtausübung oder verzögerte Ausübung einer Vertragspartei einer ihr im Rahmen dieses Vertrags zugesprochenen Berechtigung oder Befugnis gilt nicht als Verzicht auf diese Berechtigung oder Befugnis.
+Sollte eine Bestimmung dieser Vereinbarung undurchsetzbar sein, sind die übrigen Bestimmungen in keiner Weise betroffen oder beeinträchtigt. Diese Vereinbarung unterliegt dem Recht der Republik Irland und ist dementsprechend auszulegen. Die Nichtausübung oder verzögerte Ausübung einer Partei einer ihr im Rahmen dieser Vereinbarung zugesprochenen Berechtigung oder Befugnis gilt nicht als Verzicht auf diese Berechtigung oder Befugnis.
