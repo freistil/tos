@@ -5,7 +5,7 @@ _Version: 2.0.0_
 __between__
 
 * you, the client, hereafter referred to as "you", and
-* freistil IT Limited, a company incorporated in the Republic of Ireland under company registration 532004 and whose registered office is at 13 Connawood Drive, Bray, Co. Wicklow, Ireland; hereafter referred to as "we" or "us".
+* freistil IT Limited, a company incorporated in the Republic of Ireland under company registration 532004 and whose registered office is at 13 Upper Baggot St, 2nd floor, Dublin D04 W7K5, Ireland; hereafter referred to as "we" or "us".
 
 The purpose of this agreement (hereafter referred to as the "Agreement") is to precede a longer-term contract arrangement under which freistil IT will provide IT services (e.g. web hosting) on behalf of you.
 

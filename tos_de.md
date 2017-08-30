@@ -5,7 +5,7 @@ _Version: 2.0.0_
 __zwischen__
 
 * Ihnen, dem Kunden, nachstehend als "Sie" bezeichnet, und
-* freistil IT Limited, einer in der Republik Irland unter der Registernummer 532004 eingetragenen Gesellschaft mit Geschäftssitz in 13 Connawood Drive, Bray, Co. Wicklow, Irland; nachstehend als "wir" oder "uns" bezeichnet.
+* freistil IT Limited, einer in der Republik Irland unter der Registernummer 532004 eingetragenen Gesellschaft mit Geschäftssitz in 13 Upper Baggot St, 2nd floor, Dublin D04 W7K5, Irland; nachstehend als "wir" oder "uns" bezeichnet.
 
 Dieser Vertrag (nachstehend als der "Vertrag" bezeichnet) soll einer längerfristigen vertraglichen Vereinbarung, im Rahmen derer freistil IT in Ihrem Auftrag IT-Dienstleistungen (z. B. Webhosting) erbringt, vorangehen.
 
